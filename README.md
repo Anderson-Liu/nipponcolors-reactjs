@@ -11,9 +11,9 @@ npm start
 
 ## Screenshot
 
-![](http://wenming-img.peacesky.cn/WX20180727-182810@2x.png?imageslim)
+![](http://orffla7xv.bkt.clouddn.com/WX20180727-182810.png?imageslim)
 
 
 
-![](http://wenming-img.peacesky.cn/WX20180727-182851@2x.png?imageslim)
+![](http://orffla7xv.bkt.clouddn.com/WX20180727-182851.png?imageslim)
 
